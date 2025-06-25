@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Why do you want this job?",
+    "keywords": {
+      "passion": 10,
+      "challenge": 5,
+      "growth": 5
+    }
+  },
+  {
+    "question": "How do you handle pressure?",
+    "keywords": {
+      "calm": 5,
+      "focus": 10,
+      "strategy": 5
+    }
+  }
+]
