@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How would you launch a new product?",
+    "keywords": {
+      "target": 5,
+      "audience": 5,
+      "campaign": 5,
+      "strategy": 5,
+      "promotion": 5
+    }
+  },
+  {
+    "question": "What is the importance of SEO in marketing?",
+    "keywords": {
+      "search": 5,
+      "engine": 5,
+      "optimization": 5,
+      "keywords": 5,
+      "ranking": 5
+    }
+  }
+]

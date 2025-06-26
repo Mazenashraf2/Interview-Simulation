@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What makes a good user interface?",
+    "keywords": {
+      "usability": 5,
+      "simplicity": 5,
+      "aesthetics": 5,
+      "consistency": 5,
+      "feedback": 5
+    }
+  },
+  {
+    "question": "Describe the design thinking process.",
+    "keywords": {
+      "empathize": 5,
+      "define": 5,
+      "ideate": 5,
+      "prototype": 5,
+      "test": 5
+    }
+  }
+]

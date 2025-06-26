@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is object-oriented programming?",
+    "keywords": {
+      "class": 5,
+      "object": 5,
+      "inheritance": 5,
+      "encapsulation": 5,
+      "polymorphism": 5
+    }
+  },
+  {
+    "question": "Explain the purpose of version control systems.",
+    "keywords": {
+      "git": 5,
+      "collaboration": 5,
+      "history": 5,
+      "repository": 5
+    }
+  }
+]
+

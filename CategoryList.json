@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Programming",
+    "link": "https://raw.githubusercontent.com/YourUser/YourRepo/main/programming.json"
+  },
+  {
+    "name": "Design",
+    "link": "https://raw.githubusercontent.com/YourUser/YourRepo/main/design.json"
+  },
+  {
+    "name": "Marketing",
+    "link": "https://raw.githubusercontent.com/YourUser/YourRepo/main/marketing.json"
+  }
+]
