@@ -1,14 +1,14 @@
 [
   {
     "name": "Programming",
-    "link": "https://github.com/Mazenashraf2/Interview-Simulation/blob/main/Programming.json"
+    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/blob/main/Programming.json"
   },
   {
     "name": "Design",
-    "link": "https://github.com/Mazenashraf2/Interview-Simulation/blob/main/design.json"
+    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/blob/main/design.json"
   },
   {
     "name": "Marketing",
-    "link": "https://github.com/Mazenashraf2/Interview-Simulation/blob/main/marketing.json"
+    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/blob/main/marketing.json"
   }
 ]
