@@ -1,14 +1,6 @@
 [
   {
-    "name": "Programming",
-    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/main/Programming.json"
-  },
-  {
-    "name": "Design",
-    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/main/design.json"
-  },
-  {
-    "name": "Marketing",
-    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/main/marketing.json"
+    "name": "Basics",
+    "link": "https://raw.githubusercontent.com/Mazenashraf2/Interview-Simulation/main/basics.json"
   }
 ]
