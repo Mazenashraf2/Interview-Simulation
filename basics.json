@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "keywords": {
+      "background": 4,
+      "experience": 4,
+      "skills": 4,
+      "education": 3,
+      "career": 3,
+      "goals": 2
+    }
+  },
+  {
+    "question": "What are your strengths?",
+    "keywords": {
+      "hardworking": 4,
+      "team player": 4,
+      "problem solving": 4,
+      "communication": 3,
+      "adaptability": 3,
+      "leadership": 2
+    }
+  },
+  {
+    "question": "What is your biggest weakness?",
+    "keywords": {
+      "perfectionist": 4,
+      "time management": 3,
+      "overthinking": 3,
+      "improving": 4,
+      "self-aware": 3,
+      "growth": 3
+    }
+  },
+  {
+    "question": "Why do you want to work here?",
+    "keywords": {
+      "company values": 4,
+      "culture": 3,
+      "growth": 3,
+      "opportunity": 4,
+      "mission": 3,
+      "fit": 3
+    }
+  },
+  {
+    "question": "Why should we hire you?",
+    "keywords": {
+      "skills": 4,
+      "fit": 3,
+      "value": 3,
+      "experience": 4,
+      "contribution": 3,
+      "motivation": 3
+    }
+  },
+  {
+    "question": "Tell me about a time you faced a challenge.",
+    "keywords": {
+      "challenge": 4,
+      "solution": 4,
+      "result": 4,
+      "problem": 3,
+      "action": 3,
+      "learned": 2
+    }
+  },
+  {
+    "question": "Describe a situation where you worked in a team.",
+    "keywords": {
+      "team": 4,
+      "collaboration": 3,
+      "communication": 3,
+      "role": 3,
+      "goal": 3,
+      "success": 4
+    }
+  },
+  {
+    "question": "How do you handle pressure or stressful situations?",
+    "keywords": {
+      "calm": 3,
+      "focus": 3,
+      "stress management": 4,
+      "prioritize": 3,
+      "organization": 4,
+      "mindset": 3
+    }
+  },
+  {
+    "question": "Where do you see yourself in five years?",
+    "keywords": {
+      "growth": 4,
+      "career": 4,
+      "goals": 4,
+      "plan": 3,
+      "development": 3,
+      "future": 2
+    }
+  },
+  {
+    "question": "Do you have any questions for us?",
+    "keywords": {
+      "role": 4,
+      "culture": 4,
+      "growth": 4,
+      "feedback": 3,
+      "expectations": 3,
+      "team": 2
+    }
+  },
+  {
+    "question": "How do you prioritize your tasks when everything feels urgent?",
+    "keywords": {
+      "prioritize": 4,
+      "deadlines": 3,
+      "importance": 3,
+      "organization": 4,
+      "focus": 3,
+      "time management": 3
+    }
+  },
+  {
+    "question": "What motivates you to do your best at work?",
+    "keywords": {
+      "challenge": 3,
+      "growth": 4,
+      "learning": 3,
+      "goals": 3,
+      "achievement": 4,
+      "impact": 3
+    }
+  },
+  {
+    "question": "Describe your ideal work environment.",
+    "keywords": {
+      "collaborative": 3,
+      "positive": 3,
+      "supportive": 3,
+      "growth": 3,
+      "culture": 4,
+      "communication": 4
+    }
+  },
+  {
+    "question": "How do you handle feedback or criticism?",
+    "keywords": {
+      "feedback": 4,
+      "growth": 3,
+      "improve": 3,
+      "open": 3,
+      "listen": 4,
+      "positive attitude": 3
+    }
+  },
+  {
+    "question": "How do you stay organized?",
+    "keywords": {
+      "planning": 4,
+      "tools": 3,
+      "scheduling": 3,
+      "time management": 3,
+      "prioritize": 4,
+      "focus": 3
+    }
+  },
+  {
+    "question": "What does success mean to you?",
+    "keywords": {
+      "growth": 3,
+      "achievement": 4,
+      "goals": 3,
+      "balance": 3,
+      "impact": 3,
+      "purpose": 4
+    }
+  },
+  {
+    "question": "What do you know about our company?",
+    "keywords": {
+      "mission": 4,
+      "values": 4,
+      "culture": 3,
+      "products": 3,
+      "reputation": 3,
+      "vision": 3
+    }
+  },
+  {
+    "question": "What do you do if you disagree with your manager?",
+    "keywords": {
+      "respect": 4,
+      "communication": 3,
+      "listen": 3,
+      "professional": 4,
+      "understanding": 3,
+      "resolve": 3
+    }
+  },
+  {
+    "question": "Describe a time you made a mistake at work.",
+    "keywords": {
+      "mistake": 4,
+      "responsibility": 4,
+      "learned": 3,
+      "improve": 3,
+      "solution": 3,
+      "ownership": 3
+    }
+  },
+  {
+    "question": "What sets you apart from other candidates?",
+    "keywords": {
+      "unique": 3,
+      "experience": 4,
+      "skills": 4,
+      "value": 3,
+      "strengths": 3,
+      "fit": 3
+    }
+  },
+  {
+    "question": "How do you manage your time effectively?",
+    "keywords": {
+      "time management": 4,
+      "prioritization": 4,
+      "schedule": 3,
+      "plan": 3,
+      "deadline": 3,
+      "focus": 3
+    }
+  },
+  {
+    "question": "What would your previous manager say about you?",
+    "keywords": {
+      "reliable": 4,
+      "hardworking": 4,
+      "team player": 3,
+      "punctual": 3,
+      "positive": 3,
+      "motivated": 3
+    }
+  },
+  {
+    "question": "Tell me about a project you led.",
+    "keywords": {
+      "leadership": 4,
+      "planning": 3,
+      "responsibility": 3,
+      "team": 3,
+      "result": 4,
+      "goal": 3
+    }
+  },
+  {
+    "question": "What do you do if you don’t know how to complete a task?",
+    "keywords": {
+      "ask": 3,
+      "research": 4,
+      "learn": 3,
+      "collaboration": 3,
+      "independent": 3,
+      "solution": 4
+    }
+  },
+  {
+    "question": "What makes a great team?",
+    "keywords": {
+      "communication": 4,
+      "trust": 3,
+      "collaboration": 4,
+      "diversity": 3,
+      "goal": 3,
+      "respect": 3
+    }
+  },
+  {
+    "question": "How do you stay updated in your field?",
+    "keywords": {
+      "learning": 4,
+      "research": 3,
+      "training": 3,
+      "articles": 3,
+      "conferences": 3,
+      "growth": 4
+    }
+  },
+  {
+    "question": "How do you deal with conflict at work?",
+    "keywords": {
+      "communication": 4,
+      "listen": 3,
+      "resolve": 4,
+      "respect": 3,
+      "professional": 3,
+      "understanding": 3
+    }
+  },
+  {
+    "question": "If hired, what would be your top priority?",
+    "keywords": {
+      "learning": 4,
+      "adapting": 3,
+      "understand the role": 3,
+      "contribute": 4,
+      "team": 3,
+      "efficiency": 3
+    }
+  },
+  {
+    "question": "Are you more comfortable working alone or in a team?",
+    "keywords": {
+      "flexible": 3,
+      "independent": 4,
+      "team player": 4,
+      "adaptable": 3,
+      "efficient": 3,
+      "balance": 3
+    }
+  },
+  {
+    "question": "How do you define professionalism?",
+    "keywords": {
+      "attitude": 3,
+      "respect": 4,
+      "communication": 3,
+      "punctuality": 3,
+      "responsibility": 4,
+      "appearance": 3
+    }
+  }
+]
